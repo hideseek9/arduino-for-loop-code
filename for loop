@@ -1,0 +1,3 @@
+for (int j = 1; j <= 10; j++ ) {    //Put the number of times you want it to cycle in for 10 and add your code in between the two curly brackets
+   
+}
